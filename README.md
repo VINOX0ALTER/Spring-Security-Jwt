@@ -24,7 +24,7 @@ This project is a Spring Boot application implementing JSON Web Token (JWT) auth
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/VINOX0ALTER/Spring-Security-Jwt
    ```
 2. Navigate to the project directory:
    ```bash
